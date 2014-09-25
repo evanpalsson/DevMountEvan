@@ -1,21 +1,25 @@
-DevMountEvan
-============
 
-html
-body
-.container{
-  margin: 0;
-  width: 100%;
-  height: 100%;
-  }
-
-.row-one
-.row-two
-.row-three
-.row-four 
-  {
-  width: 100%;
-  height: 25%;
-  border: 1px solid #000;
-  }
-  
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DevMountain Pre Assessment</title>
+  <link rel="stylesheet" href="defaultStyles.css">
+  <link rel="stylesheet" href="yourStyles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="row-one">
+      color: green
+    </div>
+    <div class="row-two">
+      color: yellow
+    </div>
+    <div class="row-three">
+      color: red
+    </div>
+    <div class="row-four">
+      color: blue
+    </div>
+  </div>
+</body>
+</html>
