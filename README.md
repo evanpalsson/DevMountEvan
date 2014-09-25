@@ -1,5 +1,21 @@
 DevMountEvan
 ============
 
-DevMountain Pre-assessment
-My name is awesome
+html
+body
+.container{
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  }
+
+.row-one
+.row-two
+.row-three
+.row-four 
+  {
+  width: 100%;
+  height: 25%;
+  border: 1px solid #000;
+  }
+  
